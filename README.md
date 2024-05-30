@@ -1,5 +1,19 @@
-# abhinandan
-### Hey, I'm Abhinandan 
+<h1 align='center'>
+    <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' 
+        alt='Waving hand animated gif'
+        height='30px'
+        width='30px' />
+  Hi There, I'm Abhinandan
+  <br />
+  <img src='https://komarev.com/ghpvc/?username=Abhinandan-Singh-Baghel&color=green&style=for-the-badge'
+    alt='Profile Views' />
+</h1>
+
+<br><p align="center">
+    <img src="https://media.giphy.com/media/pcYr3gUVbxEVJQvL3M/giphy-downsized-large.gif" alt="cat-kitty" border="0" />
+  
+</p>
+
 
 
 
